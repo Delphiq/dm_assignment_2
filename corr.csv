@@ -1,0 +1,17 @@
+﻿,,,Corr
+,,,
+B5 → D1_e,B5. How concerned are you about other family members being infected by COVID-19 in the next 6 months?,D1_e. In the past four weeks how often did you feel - So sad that nothing could cheer you up?,
+,,,
+B6 → B1_d,B6. To what extent do you agree or disagree with the following statement - There has been too much unnecessary worry about the COVID-19 outbreak,"B1_d. Which of the following, if any, have you experienced - You felt anxious or worried for the safety of yourself, close family members or friends, due to COVID-19",
+,,,
+"A3a → D1_a - D1_d, D1_f","A3a. Overall, how satisfied are you with life as a whole these days?",D1_a. In the past four weeks how often did you feel - Nervous?…,
+,,,
+"B5 → D1_a - D1_d, D1_f",B5. How concerned are you about other family members being infected by COVID-19 in the next 6 months?,D1_a. In the past four weeks how often did you feel - Nervous?…,
+,,,
+"C1_b, C1_c → E1_a - E1_e, E1_g","C1_b. Since February 2020, have you undertaken any of the following precautions to minimise COVID-19 transmission - Reduced or stopped socialising in private spaces","E1_a. What have you been doing for the last 7 days - In paid work (or away temporarily) (employee, self-employed, working for your family business)",
+,,,
+B1_b → A5_b,"B1_b. Which of the following, if any, have you experienced - You have had close contact with someone who has had a confirmed infection of COVID-19",A5_b. Extent to which you agree or disagree - What people call compromise in politics is really just selling out on one's principles,
+,,,
+Age_group → D1..,Age,D1_a. In the past four weeks how often did you feel - Nervous?,Negative
+"D1_a → B1_d, B4 - B5",D1_a. In the past four weeks how often did you feel - Nervous?,"B1_d. Which of the following, if any, have you experienced - You felt anxious or worried for the safety of yourself, close family members or friends, due to COVID-19",
+,,,
