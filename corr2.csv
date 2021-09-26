@@ -1,0 +1,9 @@
+﻿Antecedent - text,Consequents - text,Antecedent,Consequents,antecedent support,consequent support,support,confidence,lift
+,,(D1_b_1),"(D1_f_1, B1_b_2)",0.563867,0.71252,0.528368,0.937043,1.315112
+,,,,,,,,
+"B1_b. Which of the following, if any, have you experienced - You have had close contact with someone who has had a confirmed infection of COVID-19- Answer: No",D1_f. In the past four weeks how often did you feel - Worthless?,"(B1_b_2, D1_b_1)",(D1_f_1),0.558796,0.717591,0.528368,0.945547,1.317669
+,Answer: None,,,,,,,
+D1_f. In the past four weeks how often did you feel - Worthless? - None,"B1_b. Which of the following, if any, have you experienced - You have had close contact with someone who has had a confirmed infection of COVID-19 - No","(D1_f_1, E1_c_2)","(B1_b_2, D1_b_1)",0.691601,0.558796,0.512203,0.740605,1.325359
+,,,,,,,,
+E1_c. What have you been doing for the last 7 days - Unemployed and actively looking for a job - No,D1_b. In the past four weeks how often did you feel - Hopeless? - None of the time,,,,,,,
+,,,,,,,,
